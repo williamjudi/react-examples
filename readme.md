@@ -2,8 +2,6 @@
 
 More than 100 examples for [React](http://facebook.github.io/react).
 
-![](https://img.shields.io/github/license/rickbeerendonk/react-examples.svg)
-
 # How to run?
 
 ## Always

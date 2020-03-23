@@ -1,22 +1,9 @@
 {
   "name": "react-examples",
   "version": "1.0.0",
-  "description": "Examples for [React](http://reactjs.com) and [ReactJS.NET](http://reactjs.net/).",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rickbeerendonk/react-examples.git"
-  },
+  "description": "Examples for [React](http://reactjs.com).",
   "author": "Rick Beerendonk",
   "license": "EUPL-1.2",
-  "bugs": {
-    "url": "https://github.com/rickbeerendonk/react-examples/issues"
-  },
-  "homepage": "https://github.com/rickbeerendonk/react-examples#readme",
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run validate"
-    }
-  },
   "scripts": {
     "clean": "rimraf node_modules",
     "eslint": "eslint . --ext .js,.jsx,.mjs --cache",
